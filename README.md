@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuj Tripathi</h1>
-<h3 align="center">A passionate Web developer and Competitive Coder.</h3>
+<h3 align="center">A passionate Web developer.</h3>
 <img algin="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj0097&label=Profile%20views&color=0e75b6&style=flat" alt="anuj0097" /> </p>
 
-- 🌱 I’m currently Learning **React ,SQL**
+- 🌱 I’m currently Learning **MERN,SQL**
 
-- 💬 Ask me about **C++,Javascript,CyberSecurity**
+- 💬 Ask me about **C++,Javascript**
 
 - 📫 How to reach me **tripathianuj801@gmail.com**
 
