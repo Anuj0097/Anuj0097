@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Learning **MERN,SQL**
 
-- 💬 Ask me about **C++,Javascript**
+- 💬 Ask me about **C++,Javascript,SQL**
 
 - 📫 How to reach me **tripathianuj801@gmail.com**
 
