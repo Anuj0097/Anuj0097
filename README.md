@@ -14,11 +14,7 @@
 <a href="https://codepen.io/itsanuj8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itsanuj8" height="30" width="40" /></a>
 <a href="https://twitter.com/anujtri99526699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anujtri99526699" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anujtripathi801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anujtripathi801" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsanuj0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsanuj0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tripathianuj801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tripathianuj801" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/itsanuj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itsanuj7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anuj08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuj08" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsanuj0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsanuj0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
